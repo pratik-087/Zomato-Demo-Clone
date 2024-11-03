@@ -89,8 +89,6 @@ input {
 }
 
 .sec3 h3{
-    /* background-color:rgba(0, 0, 0,0.7); */
-    /* width: auto; */
     border-radius: 8px;
     font-size: 40px;
     text-align: center;
@@ -195,9 +193,7 @@ input {
     justify-content: center;
 }
 
-
-
-
+/* for scrollbar */
 ::-webkit-scrollbar {
     width: 8px;
 }
